@@ -11,6 +11,37 @@ Códigos de Python con:
 ₈ [Sistema de Ecuaciones Lineales - Solución Matricial por Método de Eliminación de Gauss](https://github.com/Navedarg/Physics-Maths/releases/tag/SEL-SMMEG)
 
 
+# Observaciones
+  
+### Español
+
+**Lenguaje de programación:** Python
+
+**Consideraciones:**
+
+1. Los códigos pueden tener bases externas de distintas personas, por lo cual pueden existir factores similares con otros.
+
+2. Los códigos de esta librería fueron generados con el fin de dar solución a una serie de problema matemáticos de distinta índole y pueden ser usados para dar respuesta a los temas en cuestión.
+
+3. Cada código posee una estructura, en varios casos, con explicación o descripción de la acción de cada linea de código; lo que se espera permita facilitar la correcta interpretación para una posterior modificación del código y cada uno de sus procesos.
+
+4. Varios de los códigos pueden usar librerías para su correcta ejecución, en caso de existir error, revisar el tipo de librería requerida al inicio del código y realizar su instalación.
+
+5. Los códigos pueden estar sujetos a errores, por lo cual se invita a revisar bien cada linea de código con el fin de saber si cumple con sus requerimientos y no genera errores de ningún tipo.
+
+6. En caso de tener alguna duda, puede dejar un comentario en el archivo del cual tenga duda, trataré de responder lo más pronto posible.
+
+7. Los comentarios, correcciones y críticas siempre son bienvenidos, no dude en dar su opinión sobre los códigos.
+
+
+Espero sean de ayuda.
+
+
+Atentamente,
+
+Ricardo Naveda V.    
+
+-----------------------------------------------------------------------------------------------------------------------------------------       
 ### English
 
 **Programming language:** Python
@@ -38,33 +69,3 @@ I hope it will be of help.
 Sincerely,
 
 Ricardo Naveda V.
-  
-
-### Español
-
-**Lenguaje de programación:** Python
-
-**Consideraciones:**
-
-1. Los códigos pueden tener bases externas de distintas personas, por lo cual pueden existir factores similares con otros.
-
-2. Los códigos de esta librería fueron generados con el fin de dar solución a una serie de problema matemáticos de distinta índole y pueden ser usados para dar respuesta a los temas en cuestión.
-
-3. Cada código posee una estructura, en varios casos, con explicación o descripción de la acción de cada linea de código; lo que se espera permita facilitar la correcta interpretación para una posterior modificación del código y cada uno de sus procesos.
-
-4. Varios de los códigos pueden usar librerías para su correcta ejecución, en caso de existir error, revisar el tipo de librería requerida al inicio del código y realizar su instalación.
-
-5. Los códigos pueden estar sujetos a errores, por lo cual se invita a revisar bien cada linea de código con el fin de saber si cumple con sus requerimientos y no genera errores de ningún tipo.
-
-6. En caso de tener alguna duda, puede dejar un comentario en el archivo del cual tenga duda, trataré de responder lo más pronto posible.
-
-7. Los comentarios, correcciones y críticas siempre son bienvenidos, no dude en dar su opinión sobre los códigos.
-
-
-Espero sean de ayuda.
-
-
-Atentamente,
-
-Ricardo Naveda V.
-
