@@ -1,7 +1,14 @@
 # Physics-Maths
-Various codes on technical matters	
+Códigos de Python con:
 
-**To view or dowload codes, open "Tags" section** | **Para ver o descargar los códigos, abra la sección "Tags"**
+[Cuadratura de Gauss](https://github.com/Navedarg/Physics-Maths/releases/tag/C-G)
+[Decimales - Binarios - IEEE 754 32 Bits](https://github.com/Navedarg/Physics-Maths/releases/tag/D-B-IEEE)
+[Interpolación: Método Directo y Diferencias Divididas de Newton](https://github.com/Navedarg/Physics-Maths/releases/tag/I-MD-DDN)
+[Método de Bisección](https://github.com/Navedarg/Physics-Maths/releases/tag/B-D)
+[Método Newton-Raphson](https://github.com/Navedarg/Physics-Maths/releases/tag/N-R)
+[Operaciones Básicas de Matrices - Con Librerías](https://github.com/Navedarg/Physics-Maths/releases/tag/OBM-CL)
+[Operaciones Básicas de Matrices - Sin Librerías](https://github.com/Navedarg/Physics-Maths/releases/tag/OBM-SL)
+[Sistema de Ecuaciones Lineales - Solución Matricial por Método de Eliminación de Gauss](https://github.com/Navedarg/Physics-Maths/releases/tag/SEL-SMMEG)
 
 
 # English
