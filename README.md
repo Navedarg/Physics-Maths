@@ -15,7 +15,7 @@ Códigos de Python con:
   
 ### Español
 
-**Lenguaje de programación:** Python
+**Lenguaje de programación:** Python  
 **Programa**: Pycharm | JetBrains
 
 **Consideraciones:**
@@ -45,7 +45,7 @@ Ricardo Naveda V.
 -----------------------------------------------------------------------------------------------------------------------------------------       
 ### English
 
-**Programming language:** Python
+**Programming language:** Python  
 **Program**: Pycharm | JetBrains
 
 **Considerations:**
