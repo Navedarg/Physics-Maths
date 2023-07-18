@@ -1,17 +1,17 @@
 # Physics-Maths
 Códigos de Python con:
 
-[Cuadratura de Gauss](https://github.com/Navedarg/Physics-Maths/releases/tag/C-G)
-[Decimales - Binarios - IEEE 754 32 Bits](https://github.com/Navedarg/Physics-Maths/releases/tag/D-B-IEEE)
-[Interpolación: Método Directo y Diferencias Divididas de Newton](https://github.com/Navedarg/Physics-Maths/releases/tag/I-MD-DDN)
-[Método de Bisección](https://github.com/Navedarg/Physics-Maths/releases/tag/B-D)
-[Método Newton-Raphson](https://github.com/Navedarg/Physics-Maths/releases/tag/N-R)
-[Operaciones Básicas de Matrices - Con Librerías](https://github.com/Navedarg/Physics-Maths/releases/tag/OBM-CL)
-[Operaciones Básicas de Matrices - Sin Librerías](https://github.com/Navedarg/Physics-Maths/releases/tag/OBM-SL)
-[Sistema de Ecuaciones Lineales - Solución Matricial por Método de Eliminación de Gauss](https://github.com/Navedarg/Physics-Maths/releases/tag/SEL-SMMEG)
+₁ [Cuadratura de Gauss](https://github.com/Navedarg/Physics-Maths/releases/tag/C-G)  
+₂ [Decimales - Binarios - IEEE 754 32 Bits](https://github.com/Navedarg/Physics-Maths/releases/tag/D-B-IEEE)  
+₃ [Interpolación: Método Directo y Diferencias Divididas de Newton](https://github.com/Navedarg/Physics-Maths/releases/tag/I-MD-DDN)  
+₄ [Método de Bisección](https://github.com/Navedarg/Physics-Maths/releases/tag/B-D)  
+₅ [Método Newton-Raphson](https://github.com/Navedarg/Physics-Maths/releases/tag/N-R)   
+₆ [Operaciones Básicas de Matrices - Con Librerías](https://github.com/Navedarg/Physics-Maths/releases/tag/OBM-CL)  
+₇ [Operaciones Básicas de Matrices - Sin Librerías](https://github.com/Navedarg/Physics-Maths/releases/tag/OBM-SL)  
+₈ [Sistema de Ecuaciones Lineales - Solución Matricial por Método de Eliminación de Gauss](https://github.com/Navedarg/Physics-Maths/releases/tag/SEL-SMMEG)
 
 
-# English
+### English
 
 **Programming language:** Python
 
@@ -38,9 +38,9 @@ I hope it will be of help.
 Sincerely,
 
 Ricardo Naveda V.
+  
 
-
-# Español
+### Español
 
 **Lenguaje de programación:** Python
 
