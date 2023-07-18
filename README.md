@@ -1,6 +1,8 @@
 # Physics-Maths
 Various codes on technical matters
 
+To view or dowload codes, open "Tags" section | Para ver o descargar los códigos, abra la sección "Tags".
+
 
 # English
 
